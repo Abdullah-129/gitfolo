@@ -6,16 +6,16 @@
 
   <h4 align="center">Easy to use automatic portfolio builder for every GitHub user!</h4>
   <p align="center">
-    <a href="">View Demo</a>
+    <a href="https://abdullah-129.000webhostapp.com/">View Demo</a>
     ·
-    <a href="">Report Bug</a>
+    <a href="https://abdullah-129.000webhostapp.com/">Report Bug</a>
     ·
-    <a href="">Request Feature</a>
+    <a href="https://abdullah-129.000webhostapp.com/">Request Feature</a>
   </p>
 </p>
 
 <p align="center">
-  <a href="https://arifszn.github.io/gitprofile">
+  <a href="https://abdullah-129.000webhostapp.com/">
     <img src="https://i.ibb.co/Sm90B9w/Portfolio-of-Abdullah-Shahid-Google-Chrome-2023-11-27-04-16-58.gif" alt="Preview" width="60%"/>
   </a>
   <br/>
@@ -60,11 +60,10 @@ Or try it **[online](https://stackblitz.com/edit/gitprofile)**.
 
 ## 🛠 Installation & Setup
 
-There are three ways to use **GITFOLO**. Use any.
+There are two ways to use **GITFOLO**. Use any.
 
 - [Forking this repo _(recommended)_](#forking-this-repo)
 - [Setting up locally](#setting-up-locally)
-- [Installing as package](#installing-as-package)
 
 ### Forking this repo
 
@@ -124,7 +123,7 @@ As this is a Vite project, you can also host your website to Netlify, Vercel, He
 
 List of all config [here](#-customization).
 
-**If you face any problems or have any questions, open an issue [here](https://github.com/arifszn/gitprofile/issues).**
+**If you face any problems or have any questions, open an issue [here](https://github.com/abdullah-129/gitfolo/issues).**
 
 ## 🎨 Customization
 
