@@ -41,9 +41,9 @@
 ✓ [Projects Section](#projects)  
 ✓ [Blog Posts Section](#blog-posts)
 
-To view a live example, **[click here](https://arifszn.github.io/gitprofile)**.
+To view a live example, **[click here](https://abdullah-129.000webhostapp.com)**.
 
-Or try it **[online](https://stackblitz.com/edit/gitprofile)**.
+Or try it **[online](https://stackblitz.com/~/github.com/Abdullah-129/gitfolo)**.
 
 <p align="center">
   <img src="https://i.ibb.co/7CrgRQB/Screenshot-2023-11-27-042021.png" alt="Themes">
@@ -591,4 +591,4 @@ const config = {
 
 ## 📄 License
 
-[MIT](https://github.com/abdullah-129/gitfolo/LICENSE)
+[MIT](https://github.com/Abdullah-129/gitfolo/blob/main/LICENSE)
