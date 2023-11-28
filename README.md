@@ -104,7 +104,7 @@ As this is a Vite project, you can also host your website to Netlify, Vercel, He
 
   ```shell
   git clone https://github.com/abdullah-129/gitfolo.git
-  cd gitprofile
+  cd <directory>
   ```
 
 - Install dependencies.
